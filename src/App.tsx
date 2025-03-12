@@ -50,7 +50,7 @@ function App() {
       <div className="max-w-2xl mx-auto px-4">
         <h1 className="text-4xl font-bold text-rose-600 text-center mb-8 flex items-center justify-center gap-2">
           <Shirt className="w-8 h-8" />
-          Family Portrait T-Shirts
+          Create your custom portrait T-shirt
         </h1>
 
         <div className="bg-white rounded-lg shadow-lg p-6">
